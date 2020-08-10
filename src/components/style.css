@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@500&display=swap');
+.navbar-brand{
+  font-family: 'Lemonada', cursive;
+  transition: 1s;
+}
+.navbar-brand:hover, .navbar-brand:focus{
+  color: #15de7f !important;
+  transition: 1s;
+  margin-left: 10px;
+}
